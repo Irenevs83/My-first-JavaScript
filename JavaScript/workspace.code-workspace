@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Mijn_eerste_HTML_pagina"
+		},
+		{
+			"path": "..\\Websites"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mijn_eerste_HTML_pagina"
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
